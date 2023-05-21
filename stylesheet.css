@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.head{
+    position: relative;
+    text-align: center;
+    text-decoration: wavy;
+    padding-top: 1.3in;
+}
+
+a{
+    text-align: center;
+    text-decoration: none;
+}
+
+.center{
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 4%;
+    line-height: 25px;
+}
