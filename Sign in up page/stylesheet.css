@@ -41,3 +41,9 @@ a:hover{
     text-transform: uppercase;
     text-shadow: 1px 1px #c31919dd;
 }
+
+#email, #password {
+    /* text-align: center; */
+    padding: 2px 0px 2px 2px;
+    margin-bottom: 1%;
+}
